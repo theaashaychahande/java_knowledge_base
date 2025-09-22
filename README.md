@@ -9,13 +9,6 @@ Code Format
 Code Example
 Output
 
-📁 Folder Structure
-/src
-/beginner
-/intermediate
-/advanced
-/docs
-
 📚 Topics by Skill Level
 
 ### 🟢 Beginner Level (Syntax & Fundamentals)
