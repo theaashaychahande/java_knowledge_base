@@ -1,13 +1,13 @@
 ☕ Java Knowledge Base
 A structured and example-driven collection of Java concepts, from zero to advanced, designed for learners, educators, and developers.
 
-Each concept is stored in a .java file with a strict 5-section format:
+Each concept is stored in a .java  file with a **strict 5-section format**:
+1. Definition  
+2. Why Use  
+3. Code Format  
+4. Code Example  
+5. Output  
 
-Definition
-Why Use
-Code Format
-Code Example
-Output
 
 📚 Topics by Skill Level
 
@@ -74,5 +74,4 @@ Output
 | 17 | Security (Spring Security, JWT) |
 | 18 | Persistence (JPA & Hibernate) |
 | 19 | Deployment (JAR, WAR, Docker) |
-   javac FileName.java
-   java FileName
+   
